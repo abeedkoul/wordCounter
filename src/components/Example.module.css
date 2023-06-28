@@ -5,12 +5,13 @@
 
     padding: 20px;
     color: white;
+    background-color: green;
 }
 
 .card {
     background-color: rgb(39, 35, 35);
-    width: 600px;
-    height: 400px;
+    width: 1000px;
+    height: 800px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -20,11 +21,12 @@
 }
 
 .inputBox {
-    width: 500px;
-    height: 250px;
+    width: 600px;
+    height: 200px;
    
 }
 
 .info {
     display: inline-block;
+    font-size: 25px;
 }
